@@ -48,6 +48,16 @@ export default function Page() {
             </input>
           </div>
         </form>
+        <div>
+          <button type='button'>
+            Submit
+          </button>
+        </div>
+
+        <div>
+          <h2>List</h2>
+
+        </div>
     </main>
   );
 }
